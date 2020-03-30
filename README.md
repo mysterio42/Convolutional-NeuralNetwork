@@ -10,7 +10,7 @@ python run.py
 
 ```
 
-### Convolutional (ReLU Activation)
+### Convolutional (ReLU Activation, MaxPooling, Same Padding)
 ```text
 Iteration: 500 Loss: 0.051108330488204956 Accuracy 96.64
 Iteration: 1000 Loss: 0.030475890263915062 Accuracy 98.03
@@ -18,6 +18,16 @@ Iteration: 1500 Loss: 0.034845031797885895 Accuracy 98.19
 Iteration: 2000 Loss: 0.017082372680306435 Accuracy 98.27
 Iteration: 2500 Loss: 0.014983654022216797 Accuracy 98.64
 Iteration: 3000 Loss: 0.003198744961991906 Accuracy 98.67
+```
+
+### Convolutional (ReLU Activation, AvgPooling, Same Padding)
+```text
+Iteration: 500 Loss: 0.07684990763664246 Accuracy 95.45
+Iteration: 1000 Loss: 0.06073486804962158 Accuracy 97.25
+Iteration: 1500 Loss: 0.025263691321015358 Accuracy 97.88
+Iteration: 2000 Loss: 0.03840985894203186 Accuracy 98.19
+Iteration: 2500 Loss: 0.02587253786623478 Accuracy 98.38
+Iteration: 3000 Loss: 0.04283294081687927 Accuracy 98.33
 ```
 
 
