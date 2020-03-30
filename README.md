@@ -30,7 +30,15 @@ Iteration: 2500 Loss: 0.02587253786623478 Accuracy 98.38
 Iteration: 3000 Loss: 0.04283294081687927 Accuracy 98.33
 ```
 
-
+### Convolutional (ReLU Activation, MaxPooling, Valid Padding)
+```text
+Iteration: 500 Loss: 0.14400433003902435 Accuracy 97.22
+Iteration: 1000 Loss: 0.03829449787735939 Accuracy 97.93
+Iteration: 1500 Loss: 0.07767825573682785 Accuracy 98.06
+Iteration: 2000 Loss: 0.01940048299729824 Accuracy 98.57
+Iteration: 2500 Loss: 0.04785574600100517 Accuracy 98.55
+Iteration: 3000 Loss: 0.02876906469464302 Accuracy 98.61
+```
 
 
 
