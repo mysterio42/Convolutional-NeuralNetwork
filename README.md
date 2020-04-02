@@ -40,10 +40,6 @@ Iteration: 2500 Loss: 0.04785574600100517 Accuracy 98.55
 Iteration: 3000 Loss: 0.02876906469464302 Accuracy 98.61
 ```
 
-
-
-
-
 <!--![Figure_0.png](figures/Figure_0.png)  ![Figure_1.png](figures/Figure_1.png)-->
 
 <!--![Figure_2.png](figures/Figure_2.png) ![Figure_3.png](figures/Figure_3.png)-->
